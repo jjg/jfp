@@ -1,7 +1,7 @@
 # jfp
 Just Fucking Print.
 
-A magic box that you can attach to any printer so the fucking this just fucking prints already.
+A magic box that you can attach to any printer so the fucking thing just fucking prints already.
 
 ## References
 
